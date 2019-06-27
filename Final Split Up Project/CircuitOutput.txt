@@ -1,0 +1,64 @@
+Branch 1:
+	Component 1: Resistor
+		Impedance: (6.44,0)
+		Magnitude of impedance: 6.44
+		Phase difference: 0
+	Component 2: Capacitor
+		Impedance: (0,-0.00229621)
+		Magnitude of impedance: 0.00229621
+		Phase difference: -1.5708
+	Component 3: Nested circuit
+		Impedance: (2.99492e-10,-0.00268827)
+		Magnitude of impedance: 0.00268827
+		Phase difference: -1.5708
+Branch 2:
+	Component 1: Inductor
+		Impedance: (0,186.494)
+		Magnitude of impedance: 186.494
+		Phase difference: 1.5708
+	Component 2: Capacitor
+		Impedance: (0,-0.00344432)
+		Magnitude of impedance: 0.00344432
+		Phase difference: -1.5708
+	Component 3: User-designed component
+		Impedance: (0,4.7)
+		Magnitude of impedance: 4.7
+		Phase difference: 1.5708
+
+Nested circuits:
+
+Nested circuit 1: 
+Branch 1:
+	Component 1: Resistor
+		Impedance: (4.3,0)
+		Magnitude of impedance: 4.3
+		Phase difference: 0
+	Component 2: Inductor
+		Impedance: (0,322.089)
+		Magnitude of impedance: 322.089
+		Phase difference: 1.5708
+Branch 2:
+	Component 1: Capacitor
+		Impedance: (0,-0.00268825)
+		Magnitude of impedance: 0.00268825
+		Phase difference: -1.5708
+Circuit data:
+Frequency: 7.22Hz
+Total impedance: (2.99492e-10,-0.00268827)
+Magnitude of impedance: 0.00268827
+Phase difference: -1.5708
+
+End of nested circuits
+
+Circuit data:
+Frequency: 7.22Hz
+Total impedance: (6.43304,0.211709)
+Magnitude of impedance: 6.43652
+Phase difference: 0.0328979
+
+Number of Total Components: 8
+		Number of Resistors: 2
+		Number of Capacitors: 3
+		Number of Inductors: 2
+		Number of Designed Components: 1
+		Number of Nested Circuits: 1
